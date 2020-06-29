@@ -10,7 +10,7 @@ public class GameLauncher {
 		gf.add(new StartPanel(gf));
 //		gf.add(new ScorePanel(gf));
 		gf.pack();
-		gf.setSize(800, 800);
+		gf.setSize(800, 900);
 		gf.setResizable(false);
 		gf.setVisible(true);
 		
